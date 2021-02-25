@@ -7,4 +7,4 @@
 brew install bitwarden-cli kryptco/tap/kr nmap speedtest-cli
 
 # Install graphical applications, macOS extensions, and dependencies
-brew cask install authy avibrazil-rdm bitwarden box-drive google-backup-and-sync google-chrome gpg-suite-no-mail keka keybase qlvideo skype slack transmission vlc
+brew install authy avibrazil-rdm bitwarden box-drive google-backup-and-sync google-chrome gpg-suite-no-mail keka keybase qlvideo skype slack transmission vlc
